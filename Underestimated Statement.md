@@ -8,7 +8,7 @@ You should expect yourself to be the exact same if you haven't put in the time t
 
 *   cached thoughts, on modelling human
 
-There was this bias that you assume other people are at around the same level as you, that is obviously false, but it is quite hard to internalize this. People really don't automatically improve themselves either, there must be a push for that to happen.
+There was this bias that you assume other people are at around the same level as you, that is obviously false, but it is quite hard to internalize this. People really don't automatically improve themselves either, there must be a push for that to happen. Also you can probably see many of those people that just stopped changing themselves.
 
 *   there's a very limited amount you can learn by just reading a few summaries:
 
@@ -20,4 +20,6 @@ Alternatively, if the questions you ask are specific enough, then you may just b
 
 I guess this may not be true, but currently I model myself to be basically wasting time when I don't think.
 
-Trial of using github to host [version history](https://github.com/Glinte/Shortform/blob/master/Underestimated%20Statement)
+* * *
+
+Trial of using github to host [version history](https://github.com/Glinte/Shortform/blob/master/Underestimated%20Statement.md)
