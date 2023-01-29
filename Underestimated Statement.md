@@ -16,10 +16,6 @@ Some texts are better than others, but even if you only read the best text on th
 
 Alternatively, if the questions you ask are specific enough, then you may just be able to somewhat master that concept in a short amount of time. This seems to be how the "Learn in <very short amount of time" courses out there do.
 
-*   Expect to learn almost nothing when you are not thinking
-
-I guess this may not be true, but currently I model myself to be basically wasting time when I don't think.
-
 * * *
 
 Trial of using github to host [version history](https://github.com/Glinte/Shortform/blob/master/Underestimated%20Statement.md)
