@@ -1,4 +1,4 @@
-\[Draft\] Note: this is written in a mere 20 minutes.
+\[Draft\]
 
 I think people (myself included) really underestimated this rather trivial statement that people don't really learn about something when they don't spend the time doing it/thinking about it.
 
