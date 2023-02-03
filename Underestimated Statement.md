@@ -18,7 +18,7 @@ There was this bias that you assume other people are at around the same level as
 
 Some texts are better than others, but even if you only read the best text on the topic you are trying to learn, rephrased using magic to cater for yourself, there is still a maximum bandwidth on learning. Don't expect to replicate what other people is able to do in just a few hours.
 
-Alternatively, if the questions you ask are specific enough, then you may just be able to somewhat master that concept in a short amount of time. This seems to be how the "Learn in <very short amount of time>" courses out there do.
+Alternatively, if the questions you ask are specific enough, then you may just be able to somewhat master that concept in a short amount of time. This seems to be how the "Learn in \<very short amount of time\>" courses out there do.
 
 * * *
 
