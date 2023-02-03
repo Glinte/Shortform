@@ -16,11 +16,10 @@ There was this bias that you assume other people are at around the same level as
 
 *   there's a very limited amount you can learn by just reading a few summaries:
 
-Some texts are better than others, but even if you only read the best text on the topic you are trying to learn, rephrased using magic to cater for yourself, there is still a maximum bandwidth on learning. Don't expect to replicate what other people is able to do in just a few hours.
+Some texts are better than others, but even if you only read the best text on the topic you are trying to learn, with the text being paraphrased by a magical AI to maximize for your learning efficiency, there is still a maximum bandwidth on learning. Don't expect to replicate what other people is able to do in just a few hours. Though I should acknowledge that there are actually very short texts that can change your mind greatly, I suspect that growth mindset is one of them but I'm not sure.
 
 Alternatively, if the questions you ask are specific enough, then you may just be able to somewhat master that concept in a short amount of time. This seems to be how the "Learn in \<very short amount of time\>" courses out there do.
 
 * * *
 
 Trial of using github to host [version history](https://github.com/Glinte/Shortform/blob/master/Underestimated%20Statement.md)
-  
