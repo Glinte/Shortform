@@ -1,18 +1,18 @@
 \[Draft\] Note: this is written in a mere 20 minutes.
 
-Hypothesis: I, and people in general, seem to really underestimated this rather trivial statement that people don't really learn about something when they don't spend the time doing it/thinking about it. I mainly noticed this while thinking about cached thoughts, and here are my motivations. 
+I think people (myself included) really underestimated this rather trivial statement that people don't really learn about something when they don't spend the time doing it/thinking about it.
+
+I currently don't have much writable evidence about why I think people underestimated this fact, but I think it is true. Below are some things that I have changed my mind/realised after noticing this fact. [TODO: separate out the motivations and the effects.]
 
 *   cached thoughts, on yourself
 
-Personally, I am a huge procrastinator and I can really flinch away from doing something even when it is weeks overdue. I was trying out BaaS and Beeminder to build up some good habits, but even with the tools I still somethings have procrastination episodes. After a few cycles of the procrastination episodes, I realised that I basically completely wasted the time when I was procrastinating, and I was overall actually worse than before I started the procrastination episode.
+Personally, I am a huge procrastinator and I can really flinch away from doing something even when it is weeks overdue. I was trying out BaaS and Beeminder to build up some good habits, but even with the tools I still somethings have procrastination episodes. Only after quite a lot of cycles of the procrastination episodes, I realised that I basically completely wasted the time when I was procrastinating, and I was overall actually worse than before I started the procrastination episode.
 
 Therefore, what I concluded is that you should expect yourself to be the exact same if you haven't put in the time to think about that topic, especially high-level topics like math. (I acknowledge that motor skills require less thinking) It is a mere wish to be a different person since the last time; You don't just learn a new theorem automatically.
 
 *   cached thoughts, on modelling human
 
 There was this bias that you assume other people are at around the same level as you, that is obviously false, but it is quite hard to internalize this. People really don't automatically improve themselves either, there must be a push for that to happen. Also you can probably see many of those people that just stopped changing themselves.
-
-Here are a list of related concepts. I was inspired by the first 2 and things below are connections to slightly different preexisting ideas in my mind. I am on the lookout for more instances of this hypothesis.
 
 *   there's a very limited amount you can learn by just reading a few summaries:
 
