@@ -1,8 +1,8 @@
 \[Draft\]
 
-I think people (myself included) really underestimated this rather trivial statement that people don't really learn about something when they don't spend the time doing it/thinking about it.
+I think people (myself included) really underestimated this rather trivial statement that people don't really learn about something when they don't spend the time doing it/thinking about it. People even measure mastery by hours practiced and not years practiced, but I still couldn't engrave this idea deep enough into my mind.
 
-I currently don't have much writable evidence about why I think people underestimated this fact, but I think it is true. Below are some things that I have changed my mind/realised after noticing this fact. [TODO: separate out the motivations and the effects.]
+I currently don't have much writable evidence about why I think people underestimated this fact, but I think it is true. Below are some things that I have changed my mind/realised after noticing this fact.
 
 *   cached thoughts, on yourself
 
